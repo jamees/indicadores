@@ -1,1 +1,1 @@
-# indicadores
+Este proyecto ocupa una variable para proxy en las peticiones, quitar en ambientes fuera de la red.
